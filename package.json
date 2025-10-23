@@ -1,0 +1,12 @@
+{
+  "name": "com.bazonsamuel.instatiatebrush",
+  "version": "1.0.0",
+  "displayName": "Instantiate Brush",
+  "description": "Tool to easily place props in the scene",
+  "unity": "6000.0",
+  "hideInEditor": true,
+  "author": {
+    "name": "Samuel Gatinho Bazon",
+    "email": "bazonsamuel@gmail.com"
+  }
+}
