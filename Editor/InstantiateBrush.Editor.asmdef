@@ -1,0 +1,16 @@
+{
+    "name": "InstantiateBrush.Editor",
+    "rootNamespace": "InstantiateBrush.Editor",
+    "references": [
+        "GUID:798ee46b7ea78594583a25ac0f2eb018"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
